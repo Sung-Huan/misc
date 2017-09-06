@@ -1,0 +1,12 @@
+       Sample1   Sample2   Sample3 .....
+ERCC1                                  -> calculate the geomentric mean
+ERCC2
+ERCC3
+...    
+        |
+        v
+      median
+      
+size factor = geomentric mean / median
+
+All the reads amount to divide to size factor
